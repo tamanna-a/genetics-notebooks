@@ -10,9 +10,10 @@ This repository contains a collection of notebooks that showcase genomics data a
 Programs used:
 biopython
 
-## Gene mutation & Cancer
-**Task:** Determine which mutations have high risk for developing neuroblastoma
-	Predict whether patient will progress to high risk based on their gene expressions data
+## Gene mutation & Cancer Prediction
+**Task:** 
+- Determine which mutations have high risk for developing neuroblastoma 
+- Predict whether patient will progress to high risk based on their gene expressions data **(ML)**
 
 **Data** Mutations data, RNA expressions data, Clinical data
 
